@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "userid": "demo@demo.com",
+      "password": "$2b$10$vAHod8dMNe/Dqb74gRfGe.f1rSp2ee7.eXDPcnlIq/dwHzWNxj5ke"
+    },
+    {
+      "userid": "41464890",
+      "passkeyInfo": {
+        "webauthn_session_id": "ybY_B3prkssN2FRaC1gJf",
+        "user_id": "t24lli4i60ul0g2s8cfsa",
+        "external_user_id": "41464890",
+        "credential_id": "d2TNf6eJrmu9ELGATD88Pw==",
+        "webauthn_username": "41464890",
+        "authenticator_attachment": "cross-platform",
+        "is_user_created": true
+      }
+    },
+    {
+      "userid": "42161916",
+      "passkeyInfo": {
+        "webauthn_session_id": "8dqeSuMZIrZQsX03EVRv0",
+        "user_id": "yzknyfxrhytxey5hqv3n8",
+        "external_user_id": "42161916",
+        "credential_id": "L1JdiTiR6glZXfXUtQcfU3WLe1s=",
+        "webauthn_username": "42161916",
+        "authenticator_attachment": "platform",
+        "is_user_created": true
+      }
+    },
+    {
+      "userid": "123456",
+      "passkeyInfo": {
+        "webauthn_session_id": "EUXwL-G_1I8OZSXomIWNO",
+        "user_id": "ppj86k4oeziw0idt25kd9",
+        "external_user_id": "123456",
+        "credential_id": "JRWmTyvxKNpSpcPhvfHeMQ==",
+        "webauthn_username": "123456",
+        "authenticator_attachment": "cross-platform",
+        "is_user_created": true
+      }
+    },
+    {
+      "userid": "1234",
+      "passkeyInfo": {
+        "webauthn_session_id": "zJn-7FvrKgO2qz0RcSsKl",
+        "user_id": "b8q0e9v0osyg4ipzqdvhy",
+        "external_user_id": "1234",
+        "credential_id": "yOJSs/kmRh5xwXE87OOoWw==",
+        "webauthn_username": "1234",
+        "authenticator_attachment": "cross-platform",
+        "is_user_created": true
+      }
+    },
+    {
+      "userid": "110982",
+      "passkeyInfo": {
+        "webauthn_session_id": "iUMAcPtS81s0Aii20Y8zR",
+        "user_id": "fnf69cu07hz7qvcq3sqd1",
+        "external_user_id": "110982",
+        "credential_id": "T2FsLVF7JAkQO9mtwtgizA==",
+        "webauthn_username": "110982",
+        "authenticator_attachment": "cross-platform",
+        "is_user_created": true
+      }
+    },
+    {
+      "userid": "111111",
+      "passkeyInfo": {
+        "webauthn_session_id": "dUAiW-iCpnZWD9mSZPQLj",
+        "user_id": "wfixq8or7fapcb4j7gg21",
+        "external_user_id": "111111",
+        "credential_id": "F6tBmy9+L7GrmYXZFs1TEA==",
+        "webauthn_username": "111111",
+        "authenticator_attachment": "cross-platform",
+        "is_user_created": true
+      }
+    },
+    {
+      "userid": "1012",
+      "passkeyInfo": {
+        "webauthn_session_id": "0pY2Og_7khF0BcNrmnLTC",
+        "user_id": "jvt7xe593yzfspdhy4nei",
+        "external_user_id": "1012",
+        "credential_id": "tlwiP946PVpoG4DhbX25K94egH8=",
+        "webauthn_username": "1012",
+        "authenticator_attachment": "platform",
+        "is_user_created": true
+      }
+    },
+    {
+      "userid": "00012",
+      "passkeyInfo": {
+        "webauthn_session_id": "3Rk8p0tEt_VwP6tn_eGzf",
+        "user_id": "0b1qrq8iaof7aeff6r41z",
+        "external_user_id": "00012",
+        "credential_id": "VeLRNBo3sy0t6p0+Ajofiw==",
+        "webauthn_username": "00012",
+        "authenticator_attachment": "cross-platform",
+        "is_user_created": true
+      }
+    },
+    {
+      "userid": "danniv21",
+      "passkeyInfo": {
+        "webauthn_session_id": "JCMDnZ7gV2gDEc3CkbRue",
+        "user_id": "hh7x22d3gog6lst8eddlk",
+        "external_user_id": "danniv21",
+        "credential_id": "TElk3gEmy68El4B4ePRs9m4tAAM=",
+        "webauthn_username": "danniv21",
+        "authenticator_attachment": "platform",
+        "is_user_created": true
+      }
+    }
+  ]
+}
